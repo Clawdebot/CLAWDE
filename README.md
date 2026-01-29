@@ -1,0 +1,2 @@
+# CLAWDE
+Automation bot project
