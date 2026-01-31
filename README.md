@@ -1,2 +1,4 @@
 # CLAWDE
-Automation bot project
+⭐ AI Agent Framework
+Modular skill system + crypto analysis + automation base.
+
