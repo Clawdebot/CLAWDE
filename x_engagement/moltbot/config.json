@@ -1,5 +1,5 @@
 {
-  "api_key": "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",
+  "api_key": "api_key",
   "model": "openai/gpt-4o-mini",
   "system_prompt": "Kamu adalah AI assistant cerdas dan membantu."
 }
