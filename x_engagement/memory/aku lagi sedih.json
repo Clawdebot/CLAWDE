@@ -1,0 +1,14 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "aku lagi sedih"
+    },
+    {
+      "role": "assistant",
+      "content": "Saya turut merasa sedih mendengar itu. Terkadang, berbagi perasaan bisa membantu. Apakah ada sesuatu yang ingin kamu bicarakan atau ceritakan?"
+    }
+  ],
+  "user_facts": {},
+  "skills_used": {}
+}

@@ -1,0 +1,22 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "hai"
+    },
+    {
+      "role": "assistant",
+      "content": "API ERROR: No cookie auth credentials found"
+    },
+    {
+      "role": "user",
+      "content": "hai"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?"
+    }
+  ],
+  "user_facts": {},
+  "skills_used": {}
+}

@@ -1,0 +1,17 @@
+test: hai -> Hai! Ada yang bisa saya bantu hari ini?
+test: kamu tau buah apel? -> Ya, saya tahu tentang buah apel! Apel adalah buah yang populer dan memiliki berbagai varietas. Mereka biasanya berwarna merah, hijau, atau kuning, dan kaya akan vitamin C serta serat. Apel juga memiliki banyak manfaat kesehatan, termasuk mendukung pencernaan dan mengurangi risiko beberapa penyakit. Apakah Anda ingin tahu lebih banyak tentang apel atau memiliki pertanyaan khusus?
+test: /token bitcoin -> Bitcoin (BTC) adalah cryptocurrency pertama yang diciptakan oleh seseorang atau kelompok dengan nama samaran Satoshi Nakamoto pada tahun 2009. Bitcoin adalah bentuk uang digital yang menggunakan teknologi blockchain untuk mencatat transaksi dan mengamankan jaringan. 
+
+Berikut adalah beberapa aspek kunci tentang Bitcoin:
+
+1. **Desentralisasi**: Bitcoin tidak diatur oleh pemerintah atau lembaga keuangan mana pun. Sebaliknya, ia dikelola secara kolektif oleh para penggunanya melalui jaringan peer-to-peer.
+
+2. **Blockchain**: Setiap transaksi Bitcoin dicatat dalam blockchain, yang merupakan buku besar publik yang terdistribusi. Ini memberikan transparansi dan mencegah penipuan.
+
+3. **Mining**: Bitcoin dihasilkan melalui proses yang dikenal sebagai mining, di mana komputer menyelesaikan masalah matematika kompleks dan sebagai imbalannya menerima Bitcoin baru.
+
+4. **Volatilitas**: Harga Bitcoin cenderung sangat volatil, sehingga dapat mengalami fluktuasi harga yang signifikan dalam waktu yang singkat.
+
+5. **Kegunaan**: Selain sebagai aset investasi, Bitcoin juga dapat digunakan untuk transaksi, meskipun adopsi sebagai alat pembayaran masih dalam tahap perkembangan.
+
+Jika Anda memiliki pertanyaan lebih lanjut tentang Bitcoin atau cryptocurrency lainnya, silakan beri tahu!

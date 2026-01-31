@@ -1,0 +1,14 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "hai"
+    },
+    {
+      "role": "assistant",
+      "content": "AI error."
+    }
+  ],
+  "user_facts": {},
+  "skills_used": {}
+}
