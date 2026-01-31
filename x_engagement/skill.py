@@ -17,7 +17,7 @@ def save_memory(memory):
 memory = load_memory()
 
 # ================= AI (OpenRouter) =================
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "API_KEY"
 MODEL = "openai/gpt-4o-mini"
 
 def ask_ai(message):

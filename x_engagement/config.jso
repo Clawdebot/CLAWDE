@@ -1,5 +1,5 @@
 { "api_key": 
-  "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", 
+  "API_KEY", 
   "model": "openai/gpt-4o-mini", 
   "rate_limit_seconds": 2
 }

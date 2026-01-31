@@ -1,5 +1,5 @@
 {
-  "api_key": "api_key",
+  "api_key": "API_KEY",
   "model": "openai/gpt-4o-mini",
   "system_prompt": "Kamu adalah AI Platform V3, asisten cerdas dan membantu."
 }
